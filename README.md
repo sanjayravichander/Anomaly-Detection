@@ -36,4 +36,10 @@ In healthcare, anomaly detection can be used to monitor patients' health data, i
 ```bash
   streamlit run Loan_Prediction_app_streamlit_app.py
 
+Streamlit App Demo Images
 
+<img width="582" alt="Screenshot 2024-01-24 171528" src="https://github.com/sanjayravichander/Anomaly-Detection/assets/86998084/9fca00a6-5eef-4255-b62d-f41793a00e67">
+
+<img width="612" alt="Screenshot 2024-01-24 171645" src="https://github.com/sanjayravichander/Anomaly-Detection/assets/86998084/8ce89f66-3f5a-4697-b4ed-ed7e3b5a702c">
+
+<img width="605" alt="Screenshot 2024-01-24 171732" src="https://github.com/sanjayravichander/Anomaly-Detection/assets/86998084/9bcba03a-3e89-44a2-b2ed-68a6ff67993a">
