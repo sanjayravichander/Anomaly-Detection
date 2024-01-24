@@ -17,6 +17,16 @@ In industries such as manufacturing, anomaly detection can predict potential equ
 # Health Monitoring:
 In healthcare, anomaly detection can be used to monitor patients' health data, identifying unusual trends that might indicate a health issue.
 
+# Streamlit App Images
+
+<img width="582" alt="Screenshot 2024-01-24 171528" src="https://github.com/sanjayravichander/Anomaly-Detection/assets/86998084/2e8065ef-cc56-4d58-b70c-1ce1076f0a4d">
+
+
+<img width="612" alt="Screenshot 2024-01-24 171645" src="https://github.com/sanjayravichander/Anomaly-Detection/assets/86998084/231f32f4-2a51-471a-9433-2cedd91dfeb9">
+
+
+<img width="605" alt="Screenshot 2024-01-24 171732" src="https://github.com/sanjayravichander/Anomaly-Detection/assets/86998084/764c80c0-48f1-44e0-921b-227fce16c246">
+
 ## Installation
 
 --Clone my repository.
@@ -35,3 +45,4 @@ In healthcare, anomaly detection can be used to monitor patients' health data, i
 
 ```bash
   streamlit run Loan_Prediction_app_streamlit_app.py
+
