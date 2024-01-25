@@ -2,15 +2,8 @@
 # Anomaly Detection using Machine Learning
 Anomaly detection in a project involves identifying unusual or unexpected patterns or behaviors in data. The goal is to automatically detect instances that deviate significantly from the norm, indicating potential issues, errors, or abnormalities.
 
-## Installation
+## Requirements
 
---Clone my repository.
-
---Open CMD in working directory.
-
---Run following command.
-
-# Requirements
 ```bash
   pip install pandas
   pip install numpy
