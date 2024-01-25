@@ -14,15 +14,6 @@ Anomaly detection in a project involves identifying unusual or unexpected patter
   pip install PIL
 ```
 
-```bash
-  pip install -r requirements.txt
-```
-
---To run app, write following command in CMD.
-
-```bash
-  streamlit run Anomaly_Detection_Isolation_app.py
-```
 # Streamlit App Images
 
 <img width="612" alt="Screenshot 2024-01-24 171528" src="https://github.com/sanjayravichander/Anomaly-Detection/assets/86998084/2e8065ef-cc56-4d58-b70c-1ce1076f0a4d">
